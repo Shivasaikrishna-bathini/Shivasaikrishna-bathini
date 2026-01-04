@@ -1,9 +1,33 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
-<br><br>
+<p align="center">
+  <img 
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5"
+    width="440"
+  />
+</p>
+ 😈 About Me
+
+🚀 **Currently building** a speculative-decoding-inspired **stock forecasting system** using **Mixture-of-Experts (MoE) with Time-LLM**, blending Transformers, xLSTM, and minGRU to achieve **18.7% lower error** than traditional models.
+
+👀 **Looking to collaborate** on **production-grade AI systems** that turn research into real-world impact—especially **RAG pipelines, MLOps infrastructure, and LLM optimization**.
+
+🧠 **Actively exploring** scalable **agentic AI workflows** and **multi-agent orchestration** patterns for complex reasoning and decision-making.
+
+🧪 **Currently learning** advanced **CUDA kernel optimization**, **distributed multi-GPU training**, and the art of explaining **transformers to non-technical humans** without losing them in under 30 seconds.
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/95935ed7-ba9a-47eb-b552-bf45b473aaa4" width="260" />
+</p>
+
+<p align="center">
+  <em>Me, every time I optimize CUDA kernels or explain transformers for the 5th time.</em>
+</p>
 
 
-#  About Me:
-🔭 I'm currently working on a speculative-decoding-inspired Stock Forecasting System using Mixture-of-Experts (MoE) with Time-LLM—blending Transformers, xLSTM, and minGRU to predict market trends with 18.7% lower error than traditional models<br>👯 I'm looking to collaborate on production-grade AI systems that bridge research innovation with real-world impact—especially RAG pipelines, MLOps infrastructure, and LLM optimization projects<br>🤝 I'm looking for help with scaling agentic AI workflows and multi-agent orchestration patterns for complex reasoning tasks<br>🌱 I'm currently learning advanced CUDA kernel optimization, distributed training strategies across multi-GPU clusters, and how to explain transformers to my non-technical friends without losing them in 30 seconds<br>💬 Ask me about building RAG systems from scratch, optimizing LLM inference with TensorRT, or why speculative decoding is cooler than it sounds<br>⚡ Fun fact: I built a Sanskrit Transformer that processes 3,000-year-old Vedic texts with <75ms latency—proving that ancient languages and modern GPUs can actually be best friends
+
+⚡ **Ask me about** building **RAG systems from scratch**, optimizing **LLM inference with TensorRT**, or why **speculative decoding** is way cooler than it sounds.
+
+🏛️ **Fun fact:** I built a **Sanskrit Transformer** that processes **3,000-year-old Vedic texts** with **<75 ms latency**—proving ancient languages and modern GPUs can absolutely be best friends.
+
 
 
 ## 🌐 Socials:
